@@ -1,0 +1,157 @@
+/*
+Christopher Lewis
+Date
+555555555
+for Christopher Lewis
+INM320 AA
+Sass Template
+*/
+@font-face {
+    font-family: Hyperspace;
+    src: url(../fonts/Hyperspace.ttf);
+}
+body, html{
+  background:#000;
+  color:#FFF;
+  font-family: Hyperspace, "Helvetica", sans-serif;
+}
+h1{
+  font-size: 3em;
+  margin-left: -17px;
+  animation: h1Text 10s  infinite;
+}
+@keyframes h1Text {
+    0% {color: #FF00FF;}
+    50% {color: #00FFFF;}
+    100% {color: #FF00FF;}
+}
+h2, label{
+  font-size: 2em;
+}
+h1, h2{
+  text-align: center;
+}
+textarea{
+  font-family: "Helvetica", sans-serif;
+}
+#gradx_add_slider, .gradx_slectboxes,#gradx_show_code,.sp-button-container.sp-cf{
+  display:none;
+}
+.centerHorizontal{
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+}
+.sp-picker-container, .sp-container{
+  border:none;
+  background: none;
+  @extend .centerHorizontal;
+}
+.sp-container.sp-flat{
+  margin-left: -17px;
+}
+#gradx_slider_info .sp-container.sp-flat{
+  margin-left: 0;
+}
+#gradX{
+  margin:0 0 0 -26px;
+}
+.sp-alpha-enabled .sp-alpha{
+  display:none;
+}
+#timeInputGroup{
+  @extend .centerHorizontal;
+  width: 400px;
+  position: relative;
+  text-align: center;
+  margin-left: -17px;
+}
+.gradx{
+@extend .centerHorizontal;
+  &, #gradx_gradX{
+    background:none;
+    border:none;
+  }
+}
+.gradx_panel{
+  width: 400px;
+  border:none;
+  margin-left: 22px;
+}
+#gradx_gradX{
+  padding:0;
+}
+.gradx_start_sliders{
+  margin-left: 0;
+  width: 100%;
+  border:none;
+  background: none;
+  margin-top:30px;
+}
+.gradx_slider{
+  border:1px solid #ffffff;
+  opacity: 1;
+  top:90px !important;
+}
+.gradx_slider::after{
+  border-color: #ffffff;
+}
+.targets {
+    margin:0 auto;
+    text-align: center;
+    border: 1px solid #ccc;
+    background: #f8f8f8;
+    margin: 0 auto;
+    border-radius: 4px;
+    width:auto;
+    padding:10px;
+}
+
+.target_text {
+    margin: 0px auto;
+    margin-top: 40%;
+    background: #f8f8f8;
+    width: 70px;
+    border: 1px solid #ddd;
+    padding: 2px;
+    border-radius: 2px;
+    color: #111;
+}
+
+.target {
+    border: 1px solid;
+    margin: 0px 10%;
+    width: 150px;
+    height: 150px;
+    display:inline-block;
+}
+#target {
+    border-radius: 150px;
+}
+
+.result {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding:12px;
+    padding-left: 15px;
+    margin: 10px 0px;
+    border: 1px solid #ddd;
+    background: #f8f8f8;
+}
+#codeOutput{
+  width:400px;
+  height:150px;
+  margin-left:-18px;
+  @extend .centerHorizontal;
+  position: relative;
+  z-index: -1;
+}
+#colorPickerLayout{
+  width:520px;
+  height:75vh;
+  left:50%;
+  position: absolute;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+}

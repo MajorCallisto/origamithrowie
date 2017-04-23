@@ -1,0 +1,21 @@
+{
+  "name": "origmaithrowiecolorpicker",
+  "version": "0.0.1",
+  "description": "A gradient color picker",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrent \"node-sass -w -o css sass\" \"npm run lite\"",
+    "lite": "lite-server"
+  },
+  "author": "Christopher Lewis",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "*"
+  },
+  "devDependencies": {
+    "concurrently": "^3.4.0",
+    "lite-server": "^2.3.0",
+    "node-sass": "^4.5.0"
+  }
+}

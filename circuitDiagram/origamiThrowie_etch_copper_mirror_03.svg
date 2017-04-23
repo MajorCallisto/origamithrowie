@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.18mm" height="35.18mm" viewBox="0 0 99.71 99.71">
+  <title>origamiThrowie_etch_copper_mirror_03</title>
+  <g id="Cut_with_tabs" data-name="Cut with tabs">
+    <g id="board">
+      <circle id="boardoutline" cx="49.86" cy="49.86" r="49.61" fill="none" stroke="#000" stroke-width="0.5"/>
+    </g>
+  </g>
+  <g id="Negative">
+    <g>
+      <rect x="68.54" y="57.01" width="6.74" height="6.74" rx="0.5" ry="0.5" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <circle cx="64.71" cy="60.38" r="3.48" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <circle cx="64.71" cy="38.78" r="3.48" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <circle cx="57.51" cy="60.38" r="3.48" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <circle cx="50.31" cy="38.78" r="3.48" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M28.46,52.63a3.3,3.3,0,1,1,0-6.6,3.23,3.23,0,0,1,1.74.51l7.73-5.11,0-5.11a3.45,3.45,0,0,1-2.13-3.19,3.48,3.48,0,1,1,4.86,3.18l0,5.84a.89.89,0,0,1,0,.18,1,1,0,0,1,0,.22,1.33,1.33,0,0,1-.24.45,1.32,1.32,0,0,1-.19.19l-.1.09-8.33,5.52a2.9,2.9,0,0,1,0,.52A3.3,3.3,0,0,1,28.46,52.63Z" transform="translate(0.25 0.25)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M39.26,65.41a3.48,3.48,0,1,1,0-7,3.36,3.36,0,0,1,.87.12l14.1-18.34a3.44,3.44,0,0,1-.45-1.7A3.48,3.48,0,1,1,57.26,42a3.33,3.33,0,0,1-.87-.12L42.29,60.23a3.43,3.43,0,0,1,.45,1.7A3.48,3.48,0,0,1,39.26,65.41Z" transform="translate(0.25 0.25)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M49.12,6h1a3.48,3.48,0,1,0,0-2.91h-1a3.48,3.48,0,1,0,0,2.91Z" transform="translate(0.25 0.25)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M84.1,49.29,74.81,40a3.43,3.43,0,0,0,.33-1.47A3.48,3.48,0,0,0,71.66,35a3.37,3.37,0,0,0-1.19.22L61.88,26l-8.2.09L64.8,18.55l.1-.09a1.36,1.36,0,0,0,.34-.41,1.34,1.34,0,0,0,.1-.23,1,1,0,0,0,0-.22.89.89,0,0,0,0-.18l0-5.84a3.48,3.48,0,1,0-2.73,0l0,5.11L48.74,26.13l-15,.19a1.33,1.33,0,0,0-.3.06l-.18.05a1,1,0,0,0-.19.12,1.11,1.11,0,0,0-.24.18.6.6,0,0,0-.09.12,1.35,1.35,0,0,0-.19.3L28.24,38.84a3.3,3.3,0,1,0,3.52,3.29,3.26,3.26,0,0,0-1-2.32l4-10.78,25.59-.33,8.08,8.44a3.36,3.36,0,0,0-.3,1.39A3.48,3.48,0,0,0,71.66,42,3.44,3.44,0,0,0,73,41.73l9,9V63.32l-4.56,4.56H53.3a3.48,3.48,0,1,0,0,2.5H77.92a1.25,1.25,0,0,0,.88-.37l5.29-5.29a1.25,1.25,0,0,0,.37-.88V50.17A1.25,1.25,0,0,0,84.1,49.29Z" transform="translate(0.25 0.25)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    </g>
+  </g>
+  <g id="Drill">
+    <g>
+      <circle cx="50.31" cy="76.59" r="0.8" fill="red"/>
+      <circle cx="50.31" cy="69.38" r="0.8" fill="red"/>
+      <circle cx="39.51" cy="62.18" r="0.98" fill="red"/>
+      <circle cx="39.51" cy="33.38" r="0.98" fill="red"/>
+      <circle cx="46.52" cy="4.79" r="0.98" fill="red"/>
+      <circle cx="71.91" cy="38.78" r="0.98" fill="red"/>
+      <circle cx="64.71" cy="60.38" r="0.98" fill="red"/>
+      <circle cx="64.71" cy="38.78" r="0.98" fill="red"/>
+      <circle cx="57.51" cy="60.38" r="0.98" fill="red"/>
+      <circle cx="57.51" cy="38.78" r="0.98" fill="red"/>
+      <circle cx="50.31" cy="60.38" r="0.98" fill="red"/>
+      <circle cx="50.31" cy="38.78" r="0.98" fill="red"/>
+      <circle cx="28.71" cy="42.38" r="0.8" fill="red"/>
+      <circle cx="28.71" cy="49.58" r="0.8" fill="red"/>
+      <circle cx="28.71" cy="56.78" r="0.8" fill="red"/>
+      <circle cx="71.91" cy="60.38" r="0.98" fill="red"/>
+      <circle cx="50.18" cy="94.89" r="0.98" fill="red"/>
+      <circle cx="53.8" cy="4.79" r="0.98" fill="red"/>
+      <circle cx="64.26" cy="8.63" r="0.98" fill="red"/>
+      <circle cx="39.61" cy="93.47" r="0.98" fill="red"/>
+    </g>
+  </g>
+  <g id="Etch">
+    <g>
+      <g>
+        <path d="M16.13,31.19v-.1h.2l1.76,5.57,1.76-5.57H20v.1L18.18,37H18Z" transform="translate(0.25 0.25)"/>
+        <path d="M23.16,33.93h1.76v.2H23.16l-.1.1V37h-.2V34.22l-.1-.1H21v-.2h1.76l.1-.1V31.1h.2v2.73Z" transform="translate(0.25 0.25)"/>
+      </g>
+      <path d="M39.28,10.3H41v.2H39.28l-.1.1v2.73H39V10.6l-.1-.1H37.13v-.2h1.76l.1-.1V7.47h.2v2.73Z" transform="translate(0.25 0.25)"/>
+      <g>
+        <path d="M14,61H10.13V55.18H14v2h-.2V55.47l-.1-.1H10.42l-.1.1v5.27l.1.1h3.42V59.28l-.1-.1H12V59H14Z" transform="translate(0.25 0.25)"/>
+        <path d="M15.21,55.47V61H15V55.18h.29l3.42,5.57V55.18h.2V61h-.29Z" transform="translate(0.25 0.25)"/>
+        <path d="M23.8,59.09l-2,2h-2V55.18h2l2,1.76Zm-2.05-3.71H20.19l-.1.1v5.28l.1.1h1.56L23.61,59V57h0Z" transform="translate(0.25 0.25)"/>
+      </g>
+      <path d="M21,49.25l-2,2h-2V45.35h2l2,1.76ZM19,45.54H17.42l-.1.1v5.28l.1.1H19l1.86-1.86v-2h0Z" transform="translate(0.25 0.25)"/>
+      <path d="M61.29,91.35v.2H57.38v-.2Z" transform="translate(0.25 0.25)"/>
+      <g>
+        <path d="M21.79,81.3v.2H17.88V75.64h3.91v.2H18.17l-.1.1V81.2l.1.1Z" transform="translate(0.25 0.25)"/>
+        <path d="M22.76,75.83v-.2h3.91v.2H24.91l-.1.1V81.5h-.2V75.93l-.1-.1Z" transform="translate(0.25 0.25)"/>
+        <path d="M27.65,75.83v-.2h3.91v.2H29.8l-.1.1V81.5h-.2V75.93l-.1-.1Z" transform="translate(0.25 0.25)"/>
+      </g>
+      <g>
+        <path d="M41.45,80.09v.2H37.55V74.43h3.91v.2H37.84l-.1.1V80l.1.1Z" transform="translate(0.25 0.25)"/>
+        <path d="M44.48,74.43v5.86h-.2V74.43Z" transform="translate(0.25 0.25)"/>
+      </g>
+      <g>
+        <path d="M25.51,64.26h3.91v3H25.87l3.55,2.64v.2h-.1L25.7,67.43v2.69h-.2Zm.29.2-.1.1V67l.1.1h3.32l.1-.1V64.56l-.09-.1Z" transform="translate(0.25 0.25)"/>
+        <path d="M32.44,64.26v5.86h-.2V64.26Z" transform="translate(0.25 0.25)"/>
+      </g>
+    </g>
+  </g>
+</svg>

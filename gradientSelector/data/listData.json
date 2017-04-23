@@ -1,0 +1,8 @@
+{
+  "flowers":[
+    {"title":"Amaryllis", "description":"Amaryllidinae. It is a small genus of flowering bulbs, with two species"},
+    {"title":"Anthurium", "description":"Anthurium, is a genus of about 1000 species of flowering plants, the largest genus of the arum family, Araceae. General common names include anthurium, tailflower, flamingo flower, and laceleaf."},
+    {"title":"Aster", "description":"Aster is a genus of flowering plants in the family Asteraceae."},
+    {"title":"Bupleurum", "description":"Bupleurum is a large genus of annual or perennial herbs or woody shrubs, with about one hundred and ninety species, belonging to the Apiaceae family. "}
+  ]
+}

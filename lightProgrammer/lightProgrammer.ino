@@ -33,10 +33,14 @@ class OrigamiCubeColor{
     color = ((uint32_t)r << 16) | ((uint32_t)g <<  8) | b;
   }
 };
-
-#define NUMCOLORS 2 //SET THIS. C can't really report array lengths as one would desire. Store the length of the array manually
-OrigamiCubeColor cubeColors[NUMCOLORS] = {OrigamiCubeColor(255,255,255,1000),OrigamiCubeColor(0,255,255,2000)};//SET THIS. Create a new OrigamiCubeColor object for each color you want. Set the time that color transitions to the next color
-
+//PASTE HERE
+#define NUMCOLORS 3
+OrigamiCubeColor cubeColors[NUMCOLORS] = {
+  OrigamiCubeColor(19, 0, 255,960),
+  OrigamiCubeColor(255, 0, 0,1040),
+  OrigamiCubeColor(205, 255, 0,0)
+};
+//TO HERE
 unsigned long lastTime = 0;//Store the last time for non-blocking timed events
 int current = 0;//track the current index of the array
 
